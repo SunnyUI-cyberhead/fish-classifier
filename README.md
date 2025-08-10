@@ -50,7 +50,7 @@
 >> bash# Run main training script
 >> python main.py
 >>
->> # Alternative training approach
+>># Alternative training approach
 >> python main2.py
 >> Data Analysis
 >> bash# Analyze dataset and model performance
@@ -61,7 +61,7 @@
 >> Results Dashboard
 >> bash# View training results and metrics
 >> python dashboard.py
->> 📊 Features
+> 📊 Features
 >>
 >> Multi-Model Training: Train and compare multiple CNN architectures
 >> Data Visualization: Comprehensive plots and analysis of training progress
