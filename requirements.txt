@@ -1,0 +1,38 @@
+# Core Machine Learning Libraries (Python 3.13.5 Compatible)
+# Note: Using nightly/preview builds for Python 3.13 compatibility
+tensorflow>=2.13.0,<2.16.0
+numpy>=1.24.0,<2.0.0
+pandas>=2.0.0,<3.0.0
+scikit-learn>=1.3.0
+
+# Image Processing
+Pillow>=10.0.0
+opencv-python>=4.8.1
+
+# Data Visualization
+matplotlib>=3.7.0
+seaborn>=0.12.0
+plotly>=5.15.0
+
+# Web Application
+streamlit>=1.28.0
+
+# Progress Bars and UI
+tqdm>=4.66.0
+
+# File and Data Handling
+h5py>=3.9.0
+
+# System and OS utilities
+psutil>=5.9.0
+
+# Additional compatible packages
+scipy>=1.11.0
+requests>=2.31.0
+
+# Development and Testing (optional)
+jupyter>=1.0.0
+notebook>=7.0.0
+
+# For model deployment
+gunicorn>=21.0.0
