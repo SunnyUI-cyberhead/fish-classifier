@@ -42,7 +42,7 @@ Fish Classification/
 ```bash
 git clone https://github.com/SunnyUI-cyberhead/fish-classifier.git
 cd fish-classifier
-```
+
 Install dependencies:
 
 bashpip install -r requirements.txt
@@ -62,6 +62,7 @@ streamlit run streamlit_app.py
 Results Dashboard
 bash# View training results and metrics
 python dashboard.py
+```
 📊 Features
 
 Multi-Model Training: Train and compare multiple CNN architectures
